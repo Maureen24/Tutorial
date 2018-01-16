@@ -15,3 +15,5 @@ you the desired changes I made. (Awesome).
 Then, I finally recorded the changes I made to you by using the 'git commit' command. (Yippie)
 Ooooh yeah, one more thing: all this I did in my local repo :).
 I hope this is getting added.
+Okay two more commands in practice 'git clone' - just makes a copy of the original file
+                                   'git push' - uploading your local repo to a remote repo e.g github
