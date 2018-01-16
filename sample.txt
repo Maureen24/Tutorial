@@ -1,2 +1,17 @@
 Git commands even a monkey can understand.
 They're using a TortoiseGit and I'm using Git Bash- It's going to be a long ride!
+Guess what? I had to first type 'git init' so as to create a git repo in my working tree/directory
+Yeah, you'll see in your working folder/file as a .git folder depending on what path of files you typed
+the command 'git init'.
+Then, I typed the command 'git status' before and after making some changes to you (sample.txt)
+BEFORE: The message I got on my git bash terminal was no commits yet, then changes to be committed line.
+AFTER (adding some lines/text on you):I got the before lines and a new line that states 'changes not staged for commit'.
+
+REMEMBER: A commit is just like a recording of the changes you've made to your file.
+
+Then after, I used the command 'git add sample.txt' which added you to the staging area i.e a place you can wait till I record
+you the desired changes I made. (Awesome).
+
+Then, I finally recorded the changes I made to you by using the 'git commit' command. (Yippie)
+Ooooh yeah, one more thing: all this I did in my local repo :).
+I hope this is getting added.
