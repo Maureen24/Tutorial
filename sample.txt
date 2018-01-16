@@ -1,0 +1,2 @@
+Git commands even a monkey can understand.
+They're using a TortoiseGit and I'm using Git Bash- It's going to be a long ride!
